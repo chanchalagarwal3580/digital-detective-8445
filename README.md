@@ -35,13 +35,28 @@ Each mission is documented in its own dedicated folder with clear explanations, 
 | :--- | :--- | :--- | :--- |
 | **Mission 0** | Repository & Workspace Setup | [mission-00-setup/](mission-00-setup/README.md) | Completed |
 | **Mission 1** | Computer Fundamentals & IPOS | [mission-01-computer-basics/](mission-01-computer-basics/README.md) | Completed |
-| **Mission 2** | Terminal & File Management | [mission-02-terminal/](mission-02-terminal/README.md) | In Progress |
-| **Mission 3** | Operating System, Processes & Permissions | [mission-03-operating-system/](mission-03-operating-system/README.md) | Pending |
-| **Mission 4** | How Programs Run (Compilers vs Interpreters) | [mission-04-programs/](mission-04-programs/README.md) | Pending |
-| **Mission 5** | Number Systems, Python & Text Encoding | [mission-05-numbers-data/](mission-05-numbers-data/README.md) | Pending |
-| **Mission 6** | Git, GitHub, Branches & Pull Requests | [mission-06-git-github/](mission-06-git-github/README.md) | Pending |
+| **Mission 2** | Terminal & File Management | [mission-02-terminal/](mission-02-terminal/README.md) | Completed |
+| **Mission 3** | Operating System, Processes & Permissions | [mission-03-operating-system/](mission-03-operating-system/README.md) | Completed |
+| **Mission 4** | How Programs Run (Compilers vs Interpreters) | [mission-04-programs/](mission-04-programs/README.md) | Completed |
+| **Mission 5** | Number Systems, Python & Text Encoding | [mission-05-numbers-data/](mission-05-numbers-data/README.md) | Completed |
+| **Mission 6** | Git, GitHub, Branches & Pull Requests | [mission-06-git-github/](mission-06-git-github/README.md) | In Progress |
 | **Mission 7** | Computer Networks & Web Communication | [mission-07-networking/](mission-07-networking/README.md) | Pending |
 | **Mission 8** | Final Review & Submission Checklist | [mission-08-final-report/](mission-08-final-report/README.md) | Pending |
+
+---
+
+## My Learning
+
+Throughout this assignment, I have progressed from basic conceptual definitions to practical hands-on systems programming and version control. Here are three major highlights:
+
+1. **Command-Line Precision & Safe File Operations**:
+   I learned how to navigate Unix systems without relying on a mouse. Mastering flags like `ls -lah` and non-destructive redirection (`>>` vs `>`) demonstrated how developers inspect system states and chain commands together using pipes (`|`).
+
+2. **Operating System Resource & Process Management**:
+   I discovered that hundreds of background processes and daemons run continuously behind the desktop. Inspecting Process Identifiers (PIDs) and POSIX file permissions (`r-w-x`) revealed how the OS isolates applications and protects sensitive system files.
+
+3. **Data Representation & Number Systems**:
+   Building `number_converter.py` bridged theory with code, showing how transistors physically store bits, why hexadecimal is essential for representing memory addresses and bytes cleanly, and how character encodings like UTF-8 allow global communication.
 
 ---
 
