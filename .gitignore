@@ -1,0 +1,9 @@
+# OS files
+.DS_Store
+*.swp
+*.swo
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
