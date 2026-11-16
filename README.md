@@ -33,9 +33,9 @@ Each mission is documented in its own dedicated folder with clear explanations, 
 
 | Mission | Focus Area | Directory Link | Status |
 | :--- | :--- | :--- | :--- |
-| **Mission 0** | Repository & Workspace Setup | [mission-00-setup/](mission-00-setup/README.md) | In Progress |
-| **Mission 1** | Computer Fundamentals & IPOS | [mission-01-computer-basics/](mission-01-computer-basics/README.md) | Pending |
-| **Mission 2** | Terminal & File Management | [mission-02-terminal/](mission-02-terminal/README.md) | Pending |
+| **Mission 0** | Repository & Workspace Setup | [mission-00-setup/](mission-00-setup/README.md) | Completed |
+| **Mission 1** | Computer Fundamentals & IPOS | [mission-01-computer-basics/](mission-01-computer-basics/README.md) | Completed |
+| **Mission 2** | Terminal & File Management | [mission-02-terminal/](mission-02-terminal/README.md) | In Progress |
 | **Mission 3** | Operating System, Processes & Permissions | [mission-03-operating-system/](mission-03-operating-system/README.md) | Pending |
 | **Mission 4** | How Programs Run (Compilers vs Interpreters) | [mission-04-programs/](mission-04-programs/README.md) | Pending |
 | **Mission 5** | Number Systems, Python & Text Encoding | [mission-05-numbers-data/](mission-05-numbers-data/README.md) | Pending |
